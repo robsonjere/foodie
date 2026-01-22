@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foodie - Food & Health Tracking Application
 
 A comprehensive web application for tracking daily food intake, exercise, and health metrics. Built with modern development frameworks and designed with a clean, intuitive interface similar to Uber/Airbnb.
@@ -419,3 +420,6 @@ For issues or questions, contact the development team.
 
 **Last Updated**: January 22, 2026
 **Version**: 1.0.0
+=======
+# foodie
+>>>>>>> 9087e121d8a1c46a93bf79d4d54ed38b4b4e630d
