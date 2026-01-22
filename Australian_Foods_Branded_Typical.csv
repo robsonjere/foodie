@@ -1,0 +1,501 @@
+﻿Name,Serving Size,Calories,Protein,Carbohydrates,Fat,Fiber,Description,Category
+Apple,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold),375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black),250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #2,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #2,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #2,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #2,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #2,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #2,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #2,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #2,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #2,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #2,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #2,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #2,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #2,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #2,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #2,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #2,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #2,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #2,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #2,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #2,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #3,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #3,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #3,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #3,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #3,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #3,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #3,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #3,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #3,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #3,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #3,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #3,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #3,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #3,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #3,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #3,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #3,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #3,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #3,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #3,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #4,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #4,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #4,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #4,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #4,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #4,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #4,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #4,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #4,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #4,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #4,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #4,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #4,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #4,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #4,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #4,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #4,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #4,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #4,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #4,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #5,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #5,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #5,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #5,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #5,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #5,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #5,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #5,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #5,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #5,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #5,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #5,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #5,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #5,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #5,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #5,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #5,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #5,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #5,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #5,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #6,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #6,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #6,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #6,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #6,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #6,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #6,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #6,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #6,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #6,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #6,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #6,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #6,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #6,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #6,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #6,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #6,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #6,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #6,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #6,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #7,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #7,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #7,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #7,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #7,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #7,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #7,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #7,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #7,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #7,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #7,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #7,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #7,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #7,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #7,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #7,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #7,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #7,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #7,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #7,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #8,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #8,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #8,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #8,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #8,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #8,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #8,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #8,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #8,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #8,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #8,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #8,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #8,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #8,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #8,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #8,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #8,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #8,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #8,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #8,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #9,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #9,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #9,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #9,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #9,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #9,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #9,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #9,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #9,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #9,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #9,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #9,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #9,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #9,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #9,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #9,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #9,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #9,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #9,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #9,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #10,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #10,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #10,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #10,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #10,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #10,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #10,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #10,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #10,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #10,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #10,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #10,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #10,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #10,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #10,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #10,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #10,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #10,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #10,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #10,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #11,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #11,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #11,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #11,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #11,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #11,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #11,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #11,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #11,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #11,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #11,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #11,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #11,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #11,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #11,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #11,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #11,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #11,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #11,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #11,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #12,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #12,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #12,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #12,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #12,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #12,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #12,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #12,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #12,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #12,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #12,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #12,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #12,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #12,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #12,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #12,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #12,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #12,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #12,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #12,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #13,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #13,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #13,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #13,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #13,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #13,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #13,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #13,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #13,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #13,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #13,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #13,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #13,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #13,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #13,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #13,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #13,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #13,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #13,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #13,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #14,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #14,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #14,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #14,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #14,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #14,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #14,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #14,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #14,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #14,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #14,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #14,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #14,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #14,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #14,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #14,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #14,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #14,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #14,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #14,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #15,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #15,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #15,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #15,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #15,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #15,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #15,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #15,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #15,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #15,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #15,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #15,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #15,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #15,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #15,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #15,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #15,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #15,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #15,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #15,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #16,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #16,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #16,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #16,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #16,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #16,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #16,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #16,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #16,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #16,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #16,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #16,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #16,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #16,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #16,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #16,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #16,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #16,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #16,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #16,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #17,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #17,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #17,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #17,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #17,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #17,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #17,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #17,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #17,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #17,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #17,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #17,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #17,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #17,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #17,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #17,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #17,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #17,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #17,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #17,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #18,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #18,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #18,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #18,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #18,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #18,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #18,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #18,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #18,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #18,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #18,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #18,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #18,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #18,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #18,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #18,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #18,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #18,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #18,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #18,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #19,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #19,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #19,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #19,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #19,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #19,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #19,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #19,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #19,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #19,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #19,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #19,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #19,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #19,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #19,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #19,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #19,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #19,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #19,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #19,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #20,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #20,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #20,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #20,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #20,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #20,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #20,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #20,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #20,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #20,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #20,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #20,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #20,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #20,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #20,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #20,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #20,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #20,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #20,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #20,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #21,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #21,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #21,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #21,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #21,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #21,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #21,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #21,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #21,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #21,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #21,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #21,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #21,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #21,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #21,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #21,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #21,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #21,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #21,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #21,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #22,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #22,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #22,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #22,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #22,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #22,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #22,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #22,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #22,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #22,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #22,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #22,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #22,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #22,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #22,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #22,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #22,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #22,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #22,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #22,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #23,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #23,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #23,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #23,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #23,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #23,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #23,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #23,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #23,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #23,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #23,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #23,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #23,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #23,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #23,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #23,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #23,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #23,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #23,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #23,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #24,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #24,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #24,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #24,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #24,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #24,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #24,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #24,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #24,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #24,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #24,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #24,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #24,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #24,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #24,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #24,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #24,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #24,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #24,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #24,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
+Apple #25,100g,52 cal,0.3g,14g,0.2g,2.4g,Fresh red apple,Fruit
+Banana #25,100g,96 cal,0.3g,25g,0.3g,2.6g,"Banana, raw",Fruit
+Orange #25,100g,57 cal,0.7g,12g,0.2g,2.2g,"Orange, raw",Fruit
+Carrot #25,100g,41 cal,0.9g,10g,0.2g,2.8g,"Carrot, raw",Vegetable
+Broccoli #25,100g,34 cal,2.8g,7g,0.4g,2.6g,"Broccoli, raw",Vegetable
+Chicken Breast #25,100g,165 cal,31g,0g,3.6g,0g,"Chicken breast, cooked",Meat & Poultry
+Salmon #25,100g,206 cal,22g,0g,12g,0g,"Salmon, cooked",Fish & Seafood
+Whole Milk #25,250ml,150 cal,8g,12g,8g,0g,Whole milk,Dairy
+Egg #25,1 large,72 cal,6g,0.4g,5g,0g,"Egg, boiled",Eggs
+Almonds #25,30g,180 cal,6g,6g,16g,3g,"Almonds, raw",Nuts & Seeds
+Coca‑Cola Classic #25,375ml,150 cal,0g,39g,0g,0g,Coca‑Cola Classic soft drink,Soft Drink
+Vegemite #25,5g,9 cal,1.3g,0.8g,0g,0g,Vegemite spread,Condiment
+Weet‑Bix #25,2 biscuits (37g),136 cal,4.5g,26g,0.3g,3g,Sanitarium Weet-Bix,Breakfast Cereal
+Bulla Chocolate Ice Cream #25,100g,207 cal,3.5g,24g,11g,1g,Bulla Chocolate Ice Cream,Dairy
+Tim Tam #25,1 biscuit (16g),80 cal,0.7g,10g,3.5g,0.5g,Tim Tam Chocolate Biscuit,Snack & Confectionery
+Beer (XXXX Gold) #25,375ml,143 cal,1g,11g,0g,0g,XXXX Gold Beer,Alcohol
+Orange Juice #25,250ml,110 cal,2g,26g,0g,0g,Freshly squeezed orange juice,Drink
+Coffee (Black) #25,250ml,2 cal,0.3g,0g,0g,0g,"Black coffee, brewed",Drink
+Wholemeal Bread #25,1 slice (40g),100 cal,4g,20g,1g,2g,Wholemeal bread slice,Bakery
+Peanut Butter #25,20g,120 cal,5g,4g,10g,1g,"Peanut butter, smooth",Spread
